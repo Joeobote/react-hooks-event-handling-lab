@@ -1,9 +1,14 @@
 // Code Keypad Component Here
 
 function Keypad (){
+    
     return (
-        <div></div>
+        <div>
+            <input type="password"/>
+        </div>
     )
+    
 }
+
 
 export default Keypad;
